@@ -1,0 +1,5 @@
+词频统计结果：
+hello 3
+world 1
+git 1
+github 1
